@@ -1,0 +1,15 @@
+{
+  "name": "image-scraper-with-puppeteer",
+  "version": "1.0.0",
+  "description": "the name says it all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "chen karmely",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^14.1.1"
+  }
+}

@@ -1,0 +1,7 @@
+a very stupid but fun image scraper
+all you need to do is to insert the url you wand to scrape from in line 7 (within quotes)
+then to run "npm i" int the root folder to install the node modules 
+and than run "npm start"
+
+* you sould have nodemon installed to run this
+so if you do not have nodemon you could install it or just run "node index.js" instead
